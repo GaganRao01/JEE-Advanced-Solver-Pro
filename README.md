@@ -121,10 +121,7 @@ streamlit run "JEE Advanced Solver Pro.py"
 4. Click "Extract & Solve Questions" to process
 5. View and download the generated solutions
 
-<div align="center">
-  
-  ![Usage Flow](https://img.shields.io/badge/1.%20Enter%20APIs-2.%20Upload%20PDFs-3.%20Process-4.%20View%20Results-informational?style=flat-square)
-</div>
+
 
 ## 🔧 Advanced Features
 - ⏱️ **Retry Logic**: Built-in handling for API quota limits with exponential backoff
